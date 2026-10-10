@@ -27,7 +27,7 @@ double distance(double x1, double y1, double x2, double y2) {
   void init(){
 	    print("Test");
 
-    double celsius = FtoC(100);
+    double celsius = FtoC(50);
     System.out.println(celsius);
 
     double sphere = sphereVolume(5);
